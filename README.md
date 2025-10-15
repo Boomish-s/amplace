@@ -22,7 +22,7 @@ am/place is an interactive game inspired by [r/place](https://en.wikipedia.org/w
   },
   {
     "x": "72",
-    "y": "9",
+    "y": "2",
     "rgb": "#444444"
   },
   {
